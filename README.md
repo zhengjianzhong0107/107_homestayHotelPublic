@@ -13,7 +13,7 @@
 [https://www.bilibili.com/video/BV1mu4y1Y7Ks/](https://www.bilibili.com/video/BV1mu4y1Y7Ks/)**
 
 **毕业设计所有选题地址：
-[https://github.com/ynwynw/allProject](https://github.com/ynwynw/allProject)**
+[https://github.com/zhengjianzhong0107/allProject](https://github.com/zhengjianzhong0107/allProject)**
 
 ## 基于Java+Springboot+Vue的民宿酒店预订管理系统(源码+数据库)107
 
